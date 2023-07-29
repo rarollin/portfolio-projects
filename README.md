@@ -1,2 +1,9 @@
 # portfolio-projects
-A collection of data analysis and programming projects.
+A collection of Cybersecurity, data analytics, and programming projects.
+
+Cybersecurity
+
+Data Analytics
+
+Programming
+
